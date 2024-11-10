@@ -1,2 +1,3 @@
 # Profile
-<h1>Hell I am Sonu Sahani</h1>
+<h1>Hello</h1>
+<p>I am Sonu Sahani</p>
